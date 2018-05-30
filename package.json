@@ -1,0 +1,23 @@
+{
+  "name": "widget-tutorial",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rslibed/widget-tutorial.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rslibed/widget-tutorial/issues"
+  },
+  "homepage": "https://github.com/rslibed/widget-tutorial#readme",
+  "dependencies": {
+    "@types/arcgis-js-api": "^4.7.0"
+  }
+}
